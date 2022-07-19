@@ -5,5 +5,5 @@ SQLAlchemy==1.4.22
 bs4==0.0.1
 PyMySQL==0.9.3
 pyhocon==0.3.55
-Deprecated~=1.2.12
+Deprecated~=1.2.13
 python-ldap==3.3.1
