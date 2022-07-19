@@ -3,7 +3,7 @@ jira==2.0.0
 docopt==0.6.2
 SQLAlchemy==1.4.39
 bs4==0.0.1
-PyMySQL==0.9.3
+PyMySQL==1.0.2
 pyhocon==0.3.55
 Deprecated~=1.2.12
 python-ldap==3.3.1
