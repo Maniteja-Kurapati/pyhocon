@@ -1,5 +1,5 @@
 cx_Oracle==8.2.1
-jira==2.0.0
+jira==3.3.2
 docopt==0.6.2
 SQLAlchemy==1.4.39
 bs4==0.0.1
