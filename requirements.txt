@@ -6,4 +6,4 @@ bs4==0.0.1
 PyMySQL==0.9.3
 pyhocon==0.3.55
 Deprecated~=1.2.12
-python-ldap==3.3.1
+python-ldap==3.4.3
